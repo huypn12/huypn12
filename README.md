@@ -20,6 +20,4 @@ Some of my pet projects:
 ### Stats
 [![Stats](https://github-readme-stats.vercel.app/api?username=huypn12&count_private=true&show_icons=true)](https://gitmemory.com/huypn12)
 
-<img src="https://raw.githubusercontent.com/huypn12/huypn12/master/icons/Linux-logo.png" height="48" width="48">
-<img src="https://raw.githubusercontent.com/huypn12/huypn12/master/icons/Cpp-logo.png" height="50" width="46">
-<img src="https://raw.githubusercontent.com/huypn12/huypn12/master/icons/C-logo.png" height="56" width="56">
+<img src="https://raw.githubusercontent.com/huypn12/huypn12/master/icons/Linux-logo.png" height="48" width="48"> <img src="https://raw.githubusercontent.com/huypn12/huypn12/master/icons/Cpp-logo.png" height="50" width="46"> <img src="https://raw.githubusercontent.com/huypn12/huypn12/master/icons/C-logo.png" height="56" width="56">
