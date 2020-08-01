@@ -1,7 +1,7 @@
 ##  Xin chào / Hi / Hallo / こにちは 👋
 
 ### About me
-- 🖥️ I earn my life with C++ and C.
+- 🖥️ I earn my living with C++ and C.
 - 🌱 I am learning Go, Rust.
 - 🔭 I find system, low-level programming interesting.
 - 💬 Ask me about anything.
@@ -9,7 +9,7 @@
 - ⚡ I speak 🇻🇳, 🇺🇸, 🇩🇪, and 🇯🇵. 
 
 ### My projects
-Some of my pet projects:
+Some of my pet projects
 - **A5Cuda**: A5/1 Rainbow table chain generator in CUDA.
 - **STM32-sensors**: Various project on reading sensors data on STM32 Nucleo 64 MCU board.
 - **Neo4j-Network-Voronoi**: Plugin for Neo4j to find Voronoi diagram on network.
