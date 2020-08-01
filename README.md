@@ -19,3 +19,5 @@ Some of my pet projects:
 
 ### Stats
 [![Stats](https://github-readme-stats.vercel.app/api?username=huypn12&count_private=true&show_icons=true)](https://gitmemory.com/huypn12)
+
+[![C](https://raw.githubusercontent.com/huypn12/huypn12/master/icons/Linux-logo.png)] | [![C](https://raw.githubusercontent.com/huypn12/huypn12/master/icons/Cpp-logo.png)] | [![C](https://raw.githubusercontent.com/huypn12/huypn12/master/icons/C-logo.png)] 
