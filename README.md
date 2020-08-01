@@ -1,18 +1,20 @@
 ##  Xin chào / Hi / Hallo / こにちは 👋
 
 ### About me
-- 🔭 I have fun taking care of my pet projects.
-- 🌱 I earn my life with C++ and C, but also really interested in learning Go and Rust.
+- 🖥️ I earn my life with C++ and C.
+- 🌱 I am learning Go, Rust.
+- 🔭 I find system, low-level programming interesting.
 - 💬 Ask me about anything.
-- 📫 Contact me by huy.phung1292@gmail.com
-- ⚡ Fun fact: I speak Vietnamese, English, German, and Japanese. 
+- 📫 huy.phung1292@gmail.com
+- ⚡ I speak 🇻🇳, 🇺🇸, 🇩🇪, and 🇯🇵. 
 
 ### My projects
 Some of my pet projects:
 - **A5Cuda**: A5/1 Rainbow table chain generator in CUDA.
-- **STM32 Sensors**: Various project on reading sensors data on STM32 Nucleo 64 MCU board.
-- **Neo4j Network Voronoi**: Plugin for Neo4j to find Voronoi diagram on network.
-- **Bayes Bees**: Bayesian inference on parametric Markov population model.
+- **STM32-sensors**: Various project on reading sensors data on STM32 Nucleo 64 MCU board.
+- **Neo4j-Network-Voronoi**: Plugin for Neo4j to find Voronoi diagram on network.
+- **Bayes-Bees**: Bayesian inference on parametric Markov population model.
+- **HMM**: Hidden Markov Model implementation.
 - *Various other projects...*
 
 ### Stats
