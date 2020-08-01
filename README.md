@@ -2,7 +2,7 @@
 
 ### About me
 - 🔭 I have fun taking care of my pet projects.
-- 🌱 I earn my life with C++ and C, but am currently learning Go and Rust.
+- 🌱 I earn my life with C++ and C, but also really interested in learning Go and Rust.
 - 💬 Ask me about anything.
 - 📫 Contact me by huy.phung1292@gmail.com
 - ⚡ Fun fact: I speak Vietnamese, English, German, and Japanese. 
