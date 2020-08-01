@@ -1,16 +1,19 @@
-### Hi there 👋
+##  Xin chào / Hi / Hallo / こにちは 👋
 
-<!--
-**huypn12/huypn12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About me
+- 🔭 I have fun taking care of my pet projects.
+- 🌱 I earn my life with C++ and C, but am currently learning Go and Rust.
+- 💬 Ask me about anything.
+- 📫 Contact me by huy.phung@outlook.de
+- ⚡ Fun fact: I speak Vietnamese, English, German, and Japanese. 
 
-Here are some ideas to get you started:
+### My projects
+Some of my pet projects:
+- **A5Cuda**: A5/1 Rainbow table chain generator in CUDA.
+- **STM32 Sensors**: Various project on reading sensors data on STM32 Nucleo 64 MCU board.
+- **Neo4j Network Voronoi**: Plugin for Neo4j to find Voronoi diagram on network.
+- **Bayes Bees**: Bayesian inference on parametric Markov population model.
+- *Various other projects...*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Stats
+[![Stats](https://github-readme-stats.vercel.app/api?username=huypn12&count_private=true&show_icons=true)](https://gitmemory.com/huypn12)
