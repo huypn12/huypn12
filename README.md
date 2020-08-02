@@ -1,4 +1,4 @@
-##  Xin chào / Hi / Hallo / こにちは 👋
+##  Xin chào / Hi / Hallo / こんにちは 👋
 
 ### About me
 - 🖥️ I earn my living with C++ and C.
