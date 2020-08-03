@@ -1,6 +1,6 @@
 ##  Xin chào / Hi / Hallo / こんにちは 👋
 
-### About me
+### Myself
 - 🖥️ I earn my living with C++ and C.
 - 🌱 I am learning Go, Rust.
 - 🔭 I find system, low-level programming interesting.
@@ -17,8 +17,10 @@ Some of my pet projects
 - **HMM**: Hidden Markov Model implementation.
 - *Various other projects...*
 
-### Stats
+### My stats
 [![Stats](https://github-readme-stats.vercel.app/api?username=huypn12&count_private=true&show_icons=true)](https://gitmemory.com/huypn12)
+
+### My favs
 <table><tr>
 <td> <img src="https://raw.githubusercontent.com/huypn12/huypn12/master/icons/Linux-logo.png" alt="Drawing" width="48" height="48"/> </td>
 <td> <img src="https://raw.githubusercontent.com/huypn12/huypn12/master/icons/Cpp-logo.png" alt="Drawing" width="48" height="48"/> </td>
