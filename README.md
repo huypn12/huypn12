@@ -20,8 +20,8 @@ Some of my pet projects
 ### Stats
 [![Stats](https://github-readme-stats.vercel.app/api?username=huypn12&count_private=true&show_icons=true)](https://gitmemory.com/huypn12)
 <table><tr>
-<td> <img src="https://raw.githubusercontent.com/huypn12/huypn12/master/icons/Linux-logo.png" alt="Drawing" style="width: 80px;"/> </td>
-<td> <img src="https://raw.githubusercontent.com/huypn12/huypn12/master/icons/Cpp-logo.png" alt="Drawing" style="width: 80px;"/> </td>
-<td> <img src="https://raw.githubusercontent.com/huypn12/huypn12/master/icons/C-logo.png" alt="Drawing" style="width: 80px;"/> </td>
-<td> <img src="https://raw.githubusercontent.com/huypn12/huypn12/master/icons/Java-logo.png" alt="Drawing" style="width: 80px;"/> </td>
+<td> <img src="https://raw.githubusercontent.com/huypn12/huypn12/master/icons/Linux-logo.png" alt="Drawing" width="48" height="48"/> </td>
+<td> <img src="https://raw.githubusercontent.com/huypn12/huypn12/master/icons/Cpp-logo.png" alt="Drawing" width="48" height="48"/> </td>
+<td> <img src="https://raw.githubusercontent.com/huypn12/huypn12/master/icons/C-logo.png" alt="Drawing" width="48" height="48"/> </td>
+<td> <img src="https://raw.githubusercontent.com/huypn12/huypn12/master/icons/Java-logo.png" alt="Drawing" width="48" height="48"/> </td>
 </tr></table>
