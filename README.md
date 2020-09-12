@@ -1,7 +1,7 @@
 ##  Xin chào / Hi / Hallo / こんにちは 👋
 
 ### Myself
-- 🖥️ I earn my living with C++ and C.
+- 🖥️ I earn my living with C++ and C..
 - 🌱 I am learning Go, Rust.
 - 🔭 I find system, low-level programming interesting.
 - 💬 Ask me about anything.
@@ -11,12 +11,11 @@
 ### My projects
 Some of my pet projects
 - **A5Cuda**: A5/1 Rainbow table chain generator in CUDA.
-- **STM32-Sensors**: Various project on reading sensors data on STM32 Nucleo 64 MCU board.
 - **Neo4j-Network-Voronoi**: Plugin for Neo4j to find Voronoi diagram on network.
-- **Forex-Prediction**: Compare different methods for time series prediction, benchmark on real Forex rates dataset.
 - **Bayes-Bees**: Bayesian inference on parametric Markov population model.
+- **Forex-Prediction**: Compare different methods for time series prediction, benchmark on real Forex rates dataset.
 - **HMM**: Hidden Markov Model implementation.
-
+- **STM32-Sensors**: Various project on reading sensors data on STM32 Nucleo 64 MCU board.
 - *Various other projects...*
 
 ### My stats
@@ -27,5 +26,6 @@ Some of my pet projects
 <td> <img src="https://raw.githubusercontent.com/huypn12/huypn12/master/icons/Linux-logo.png" alt="Drawing" width="48" height="48"/> </td>
 <td> <img src="https://raw.githubusercontent.com/huypn12/huypn12/master/icons/Cpp-logo.png" alt="Drawing" width="48" height="48"/> </td>
 <td> <img src="https://raw.githubusercontent.com/huypn12/huypn12/master/icons/C-logo.png" alt="Drawing" width="48" height="48"/> </td>
+<td> <img src="https://raw.githubusercontent.com/huypn12/huypn12/master/icons/Python-logo.png" alt="Drawing" width="48" height="48"/> </td>
 <td> <img src="https://raw.githubusercontent.com/huypn12/huypn12/master/icons/Java-logo.png" alt="Drawing" width="48" height="48"/> </td>
 </tr></table>
